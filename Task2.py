@@ -1,3 +1,4 @@
+"""A fun guessing game with computer hints for added excitement."""
 import random
 
 def guessing_game():
